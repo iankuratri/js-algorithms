@@ -1,4 +1,6 @@
-# Objects Big-O
+# Objects and Arrays Big-O
+
+## Objects
 
 An object is a collection of key value pairs.
 
@@ -14,7 +16,7 @@ const person = { firstName: "Ankur", lastName: "Atri" };
 - Object.values(): O(n)
 - Object.entries(): O(n)
 
-# Arrays Big-O
+## Arrays
 
 Arrays are ordered collection of values.
 
