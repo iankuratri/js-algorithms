@@ -44,3 +44,5 @@ function insertionSort(arr) {
 }
 
 console.log(insertionSort([-6, -2, 4, 8, 20])); // [-6, -2, 4, 8, 20]
+
+// Big-O = O(n^2) Quadratic Time Complexity -> nested loops
