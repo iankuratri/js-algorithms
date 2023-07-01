@@ -48,3 +48,6 @@ function quickSort(arr) {
 }
 
 console.log(quickSort([-6, 20, 8, -2, 4])); // [-6, -2, 4, 8, 20]
+
+// Worst case -> Big-O = O(2^n) Recursive Time Complexity
+// Average case -> O(nlogn) Logarithmic Time Complexity
